@@ -1,0 +1,21 @@
+/* body{
+    background-color: rgb(114, 52, 52);
+} */
+
+/* Style pour un identifiant (unique)*/
+#mardi{
+    background-color: red;
+}
+
+/* Style pour une classe (pour plusieurs) */
+.algo_2{
+    background-color: aqua;
+}
+
+td{
+    height: 5rem;
+}
+
+.monimage{
+    height: 9rem;
+}
